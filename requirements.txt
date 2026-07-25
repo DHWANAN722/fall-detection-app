@@ -1,8 +1,8 @@
 streamlit
 opencv-python-headless
 mediapipe==0.10.14
-tensorflow
-numpy
+tensorflow==2.15.0
+numpy==1.26.4
 pandas
 matplotlib
 seaborn
